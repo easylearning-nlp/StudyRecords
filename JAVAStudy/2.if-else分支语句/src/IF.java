@@ -4,6 +4,8 @@
  * if (关系表达式){
  *     语句体；
  * }
+ *
+ * if else语句
  */
 import java.util.Scanner;
 public class IF {
